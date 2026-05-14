@@ -1,0 +1,38 @@
+{
+  "variantName": "embed-video",
+  "baseBlock": "embed",
+  "version": "1.0.0",
+  "created": "2026-05-14T15:36:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.mega.cl/programas/el-internado/mejores-momentos/215071-agustina-pontoriero-destrozo-romance-tom-brusse-camila-nash-cruel-prediccion.html",
+    "originPage": "article page - El Internado mejores momentos",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "article-video",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "video URL",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "article pages with featured video",
+      "news article pages",
+      "entertainment content pages with streaming video embeds"
+    ],
+    "notSuitableFor": [
+      "product pages",
+      "landing pages without video content"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/programas/el-internado/mejores-momentos/215071-agustina-pontoriero-destrozo-romance-tom-brusse-camila-nash-cruel-prediccion"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-14T15:36:00.000Z"
+  }
+}
